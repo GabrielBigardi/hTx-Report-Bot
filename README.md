@@ -5,10 +5,10 @@ Node Version:
 v9.3.0  
   
 Modules:  
-steam-user  
-steam-totp  
 fs  
 request  
+steam-user  
+steam-totp  
   
 Files Requirements:  
 Main Directory\config.json  
