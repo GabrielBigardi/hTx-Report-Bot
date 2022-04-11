@@ -1,4 +1,4 @@
-# hTx Report Bot
+# Steam Report Bot
 A simple Steam Bot used for reporting bad people.
 
 [![version](https://img.shields.io/badge/node-v9.3.0-orange)](https://nodejs.org/en/download/)
